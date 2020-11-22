@@ -14,13 +14,6 @@ function displayToday() {
 
 
 
- 
- 
-
- 
-
- 
- 
 
 
 
